@@ -1,5 +1,9 @@
 # ComputerVision
 
+Curated list of resources for the innovation cluster *Computer Vision*.
+* [Awesome Computer Vision](#https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Deep Vision](#https://github.com/kjw0612/awesome-deep-vision)
+
 ## Table of Contents
 
 0. [News](#News)
